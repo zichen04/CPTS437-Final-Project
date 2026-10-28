@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Generated RL data and models
+runs/
+logs/
+checkpoints/
+models/
+*.pt
+*.pth
+*.ckpt
+*.zip
+*.pkl
+*.npz
+tensorboard/
+
+# Editor and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

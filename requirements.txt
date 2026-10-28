@@ -1,0 +1,3 @@
+# Add exact package versions after the team verifies one working setup.
+# Likely packages include panda-gym, stable-baselines3, gymnasium,
+# numpy, pandas, and matplotlib. Do not treat this file as runnable yet.
