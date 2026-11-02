@@ -1,0 +1,3 @@
+method,timesteps,mean_return,std_return,success_rate
+baseline_ppo,100000,-1.8,0.7483314773547883,1.0
+curiosity_ppo,100000,-1.7,0.9,1.0
